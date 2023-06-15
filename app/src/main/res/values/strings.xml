@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">AddBoard</string>
+
+    <!-- Menu Drawer Strings -->
+    <string name="ad_cat1">Ad</string>
+    <string name="ad_my_ads">My Ads</string>
+    <string name="ad_car">Car</string>
+    <string name="ad_pc">PC</string>
+    <string name="ad_smartphone">Smartphone</string>
+    <string name="ad_domestic">Domestic</string>
+
+    <string name="ad_cat2">Account</string>
+    <string name="ad_sign_in">Sign In</string>
+    <string name="ad_sign_up">Register</string>
+    <string name="ad_sign_out">Sign Out</string>
+
+    <string name="open">Open</string>
+    <string name="close">close</string>
+    <string name="not_reg">Sign In/Register</string>
+
+
+    <!-- Sign Dialog Strings -->
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="sign_in">Signing In</string>
+    <string name="sign_up">Registration</string>
+    <string name="sign_in_action">Login</string>
+    <string name="sign_up_action">Sign Up</string>
+    <string name="forget_password">Forgot Password?</string>
+    <string name="sign_up_error">Could not register you</string>
+    <string name="sign_in_error">Could not login</string>
+    <string name="send_verification_email_error">Could not send email for verification</string>
+    <string name="send_verification">Verification code was sent to your email to authorize your account. Please verify your account</string>
+    <string name="email_reset_was_sent">Reset Password link was sent your email</string>
+    <string name="dialog_email_reset">Please enter your email to reset password</string>
+
+
+    <!-- Google Link Sign Dialog Strings -->
+    <string name="link_done">Email is successfully linked with Google Account</string>
+    <string name="enter_to_g">You already have an account with that Email, login with it</string>
+
+
+    <!-- Edit Activity Strings -->
+    <string name="select_country">*Select Country</string>
+    <string name="select_city">*Select City</string>
+</resources>

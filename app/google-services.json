@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "330068376979",
+    "project_id": "addboardkotlin",
+    "storage_bucket": "addboardkotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330068376979:android:0b707c592139914c0f3c66",
+        "android_client_info": {
+          "package_name": "com.example.addboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330068376979-5ttlcrlhc924ehjmnsc35ihhl721brk2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzxVtUk93faXI6gblB5pvy1isNz8ea87E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330068376979-5ttlcrlhc924ehjmnsc35ihhl721brk2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
